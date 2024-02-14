@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @csinop
-- 👀 I’m interested in and learning Mobile App development
+- 👀 I’m interested in Game Development and Microsoft Power Platform
 - 📫 How to reach me csinop.dev@gmail.com
 
 <!---
